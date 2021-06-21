@@ -209,20 +209,6 @@
       "sector": 7,
       "penatua": 0,
       "diaken": 0
-    },
-    {
-      "id": 31,
-      "name": "Nielda Kezia Sumbung",
-      "sector": 7,
-      "penatua": 0,
-      "diaken": 0
-    },
-    {
-      "id": 32,
-      "name": "Ny. Martha Paruru Salenda",
-      "sector": 7,
-      "penatua": 0,
-      "diaken": 0
     }
   ],
   "vote_result": [
@@ -435,20 +421,6 @@
       "sector": 7,
       "penatua": 0,
       "diaken": 0
-    },
-    {
-      "id": 31,
-      "name": "Nielda Kezia Sumbung",
-      "sector": 7,
-      "penatua": 0,
-      "diaken": 0
-    },
-    {
-      "id": 32,
-      "name": "Ny. Martha Paruru Salenda",
-      "sector": 7,
-      "penatua": 0,
-      "diaken": 1
     }
   ],
   "profile": {
