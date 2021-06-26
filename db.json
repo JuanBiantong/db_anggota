@@ -4,70 +4,70 @@
       "id": 1,
       "name": "Fran G. Pani",
       "sector": 1,
-      "penatua": 1,
+      "penatua": 0,
       "diaken": 0
     },
     {
       "id": 2,
       "name": "Jack Aranda",
       "sector": 1,
-      "penatua": 1,
+      "penatua": 0,
       "diaken": 0
     },
     {
       "id": 3,
       "name": "John Quil",
       "sector": 1,
-      "penatua": 1,
+      "penatua": 0,
       "diaken": 0
     },
     {
       "id": 4,
       "name": "Olive Tree",
       "sector": 1,
-      "penatua": 1,
+      "penatua": 0,
       "diaken": 0
     },
     {
       "id": 5,
       "name": "Anna Domino",
       "sector": 2,
-      "penatua": 1,
+      "penatua": 0,
       "diaken": 0
     },
     {
       "id": 6,
       "name": "Ben Dover",
       "sector": 2,
-      "penatua": 1,
+      "penatua": 0,
       "diaken": 0
     },
     {
       "id": 7,
       "name": "Fay Daway",
       "sector": 2,
-      "penatua": 1,
+      "penatua": 0,
       "diaken": 0
     },
     {
       "id": 8,
       "name": "Neil Down",
       "sector": 2,
-      "penatua": 1,
+      "penatua": 0,
       "diaken": 0
     },
     {
       "id": 9,
       "name": "Skye Blue",
       "sector": 2,
-      "penatua": 1,
+      "penatua": 0,
       "diaken": 0
     },
     {
       "id": 10,
       "name": "Dulcie Veeta",
       "sector": 3,
-      "penatua": 1,
+      "penatua": 0,
       "diaken": 0
     },
     {
@@ -75,35 +75,35 @@
       "name": "Emma Grate",
       "sector": 3,
       "penatua": 0,
-      "diaken": 1
+      "diaken": 0
     },
     {
       "id": 12,
       "name": "Mary Krismass",
       "sector": 3,
       "penatua": 0,
-      "diaken": 1
+      "diaken": 0
     },
     {
       "id": 13,
       "name": "Ivan Notheridiya",
       "sector": 3,
       "penatua": 0,
-      "diaken": 1
+      "diaken": 0
     },
     {
       "id": 14,
       "name": "Anita Bath",
       "sector": 4,
       "penatua": 0,
-      "diaken": 1
+      "diaken": 0
     },
     {
       "id": 15,
       "name": "Harriet Upp",
       "sector": 4,
       "penatua": 0,
-      "diaken": 1
+      "diaken": 0
     },
     {
       "id": 16,
@@ -228,190 +228,190 @@
     },
     {
       "id": 3,
-      "name": "John Quil",
-      "sector": 1,
-      "penatua": 0,
-      "diaken": 0
-    },
-    {
-      "id": 4,
-      "name": "Olive Tree",
-      "sector": 1,
-      "penatua": 0,
-      "diaken": 0
-    },
-    {
-      "id": 5,
       "name": "Anna Domino",
       "sector": 2,
       "penatua": 0,
       "diaken": 0
     },
     {
-      "id": 6,
-      "name": "Ben Dover",
-      "sector": 2,
-      "penatua": 0,
-      "diaken": 0
-    },
-    {
-      "id": 7,
-      "name": "Fay Daway",
-      "sector": 2,
-      "penatua": 0,
-      "diaken": 0
-    },
-    {
-      "id": 8,
-      "name": "Neil Down",
-      "sector": 2,
-      "penatua": 0,
-      "diaken": 0
-    },
-    {
-      "id": 9,
-      "name": "Skye Blue",
-      "sector": 2,
-      "penatua": 0,
-      "diaken": 0
-    },
-    {
-      "id": 10,
+      "id": 4,
       "name": "Dulcie Veeta",
       "sector": 3,
       "penatua": 0,
       "diaken": 0
     },
     {
-      "id": 11,
+      "id": 5,
       "name": "Emma Grate",
       "sector": 3,
       "penatua": 0,
       "diaken": 0
     },
-    {
-      "id": 12,
-      "name": "Mary Krismass",
-      "sector": 3,
-      "penatua": 0,
-      "diaken": 0
-    },
-    {
-      "id": 13,
-      "name": "Ivan Notheridiya",
-      "sector": 3,
-      "penatua": 0,
-      "diaken": 0
-    },
-    {
-      "id": 14,
+     {
+      "id": 6,
       "name": "Anita Bath",
       "sector": 4,
       "penatua": 0,
       "diaken": 0
     },
     {
-      "id": 15,
-      "name": "Harriet Upp",
-      "sector": 4,
-      "penatua": 0,
-      "diaken": 0
-    },
-    {
-      "id": 16,
-      "name": "Manuel Labor",
-      "sector": 4,
-      "penatua": 0,
-      "diaken": 0
-    },
-    {
-      "id": 17,
-      "name": "Wiley Waites",
-      "sector": 4,
-      "penatua": 0,
-      "diaken": 0
-    },
-    {
-      "id": 18,
+      "id": 7,
       "name": "Allie Grater",
       "sector": 5,
       "penatua": 0,
       "diaken": 0
     },
     {
-      "id": 19,
+      "id": 8,
       "name": "Constance Noring",
       "sector": 5,
       "penatua": 0,
       "diaken": 0
     },
     {
-      "id": 20,
-      "name": "Minnie Van Ryder",
-      "sector": 5,
-      "penatua": 0,
-      "diaken": 0
-    },
-    {
-      "id": 21,
-      "name": "P. Ann O’Recital",
-      "sector": 5,
-      "penatua": 0,
-      "diaken": 0
-    },
-    {
-      "id": 22,
-      "name": "Ray O’Sun",
-      "sector": 5,
-      "penatua": 0,
-      "diaken": 0
-    },
-    {
-      "id": 23,
+      "id": 9,
       "name": "Anne Thurium",
       "sector": 6,
       "penatua": 0,
       "diaken": 0
     },
     {
+      "id": 10,
+      "name": "Percy Kewshun",
+      "sector": 7,
+      "penatua": 0,
+      "diaken": 0
+    },
+    {
+      "id": 11,
+      "name": "John Quil",
+      "sector": 1,
+      "penatua": 0,
+      "diaken": 0
+    },
+     {
+      "id": 12,
+      "name": "Ben Dover",
+      "sector": 2,
+      "penatua": 0,
+      "diaken": 0
+    },
+    {
+      "id": 13,
+      "name": "Mary Krismass",
+      "sector": 3,
+      "penatua": 0,
+      "diaken": 0
+    },
+    {
+      "id": 14,
+      "name": "Harriet Upp",
+      "sector": 4,
+      "penatua": 0,
+      "diaken": 0
+    },
+    {
+      "id": 15,
+      "name": "Minnie Van Ryder",
+      "sector": 5,
+      "penatua": 0,
+      "diaken": 0
+    },
+    {
+      "id": 16,
+      "name": "Olive Tree",
+      "sector": 1,
+      "penatua": 0,
+      "diaken": 0
+    },
+    {
+      "id": 17,
+      "name": "Fay Daway",
+      "sector": 2,
+      "penatua": 0,
+      "diaken": 0
+    },
+    {
+      "id": 18,
+      "name": "Neil Down",
+      "sector": 2,
+      "penatua": 0,
+      "diaken": 0
+    },
+    {
+      "id": 19,
+      "name": "Skye Blue",
+      "sector": 2,
+      "penatua": 0,
+      "diaken": 0
+    },
+    {
+      "id": 20,
+      "name": "Ivan Notheridiya",
+      "sector": 3,
+      "penatua": 0,
+      "diaken": 0
+    },
+    {
+      "id": 21,
+      "name": "Manuel Labor",
+      "sector": 4,
+      "penatua": 0,
+      "diaken": 0
+    },
+    {
+      "id": 22,
+      "name": "Wiley Waites",
+      "sector": 4,
+      "penatua": 0,
+      "diaken": 0
+    },
+    {
+      "id": 23,
+      "name": "P. Ann O’Recital",
+      "sector": 5,
+      "penatua": 0,
+      "diaken": 0
+    },
+    {
       "id": 24,
+      "name": "Ray O’Sun",
+      "sector": 5,
+      "penatua": 0,
+      "diaken": 0
+    },
+    {
+      "id": 25,
       "name": "Bridget Theriveaquai",
       "sector": 6,
       "penatua": 0,
       "diaken": 0
     },
     {
-      "id": 25,
+      "id": 26,
       "name": "Del Phineum",
       "sector": 6,
       "penatua": 0,
       "diaken": 0
     },
     {
-      "id": 26,
+      "id": 27,
       "name": "Frank N. Stein",
       "sector": 6,
       "penatua": 0,
       "diaken": 0
     },
     {
-      "id": 27,
+      "id": 28,
       "name": "Joe V. Awl",
       "sector": 6,
       "penatua": 0,
       "diaken": 0
     },
     {
-      "id": 28,
+      "id": 29,
       "name": "Rose Bush",
       "sector": 6,
-      "penatua": 0,
-      "diaken": 0
-    },
-    {
-      "id": 29,
-      "name": "Percy Kewshun",
-      "sector": 7,
       "penatua": 0,
       "diaken": 0
     },
