@@ -2,210 +2,210 @@
   "anggota": [
     {
       "id": 1,
-      "name": "Benny Mathius Lotte",
+      "name": "Fran G. Pani",
       "sector": 1,
-      "penatua": 0,
+      "penatua": 1,
       "diaken": 0
     },
     {
       "id": 2,
-      "name": "Nunuk Soraya",
+      "name": "Jack Aranda",
       "sector": 1,
-      "penatua": 0,
+      "penatua": 1,
       "diaken": 0
     },
     {
       "id": 3,
-      "name": "Benyamin Rande",
+      "name": "John Quil",
       "sector": 1,
-      "penatua": 0,
+      "penatua": 1,
       "diaken": 0
     },
     {
       "id": 4,
-      "name": "Paulina Dwi Astuti M.",
+      "name": "Olive Tree",
       "sector": 1,
-      "penatua": 0,
+      "penatua": 1,
       "diaken": 0
     },
     {
       "id": 5,
-      "name": "Bisara Keka",
+      "name": "Anna Domino",
       "sector": 2,
-      "penatua": 0,
+      "penatua": 1,
       "diaken": 0
     },
     {
       "id": 6,
-      "name": "Ratte Datu",
+      "name": "Ben Dover",
       "sector": 2,
-      "penatua": 0,
+      "penatua": 1,
       "diaken": 0
     },
     {
       "id": 7,
-      "name": "Christyani Rannu",
+      "name": "Fay Daway",
       "sector": 2,
-      "penatua": 0,
+      "penatua": 1,
       "diaken": 0
     },
     {
       "id": 8,
-      "name": "Friska Febriyani",
+      "name": "Neil Down",
       "sector": 2,
-      "penatua": 0,
+      "penatua": 1,
       "diaken": 0
     },
     {
       "id": 9,
-      "name": "Daud K. Pirade",
+      "name": "Skye Blue",
       "sector": 2,
-      "penatua": 0,
+      "penatua": 1,
       "diaken": 0
     },
     {
       "id": 10,
-      "name": "Dety D. Palimbong",
+      "name": "Dulcie Veeta",
       "sector": 3,
-      "penatua": 0,
+      "penatua": 1,
       "diaken": 0
     },
     {
       "id": 11,
-      "name": "Frederik Lolo",
+      "name": "Emma Grate",
       "sector": 3,
       "penatua": 0,
-      "diaken": 0
+      "diaken": 1
     },
     {
       "id": 12,
-      "name": "Diana Papayungan",
+      "name": "Mary Krismass",
       "sector": 3,
       "penatua": 0,
-      "diaken": 0
+      "diaken": 1
     },
     {
       "id": 13,
-      "name": "Krisna Perdana Lolo",
+      "name": "Ivan Notheridiya",
       "sector": 3,
       "penatua": 0,
-      "diaken": 0
+      "diaken": 1
     },
     {
       "id": 14,
-      "name": "Chrys Adrian Lolo",
+      "name": "Anita Bath",
       "sector": 4,
       "penatua": 0,
-      "diaken": 0
+      "diaken": 1
     },
     {
       "id": 15,
-      "name": "Maega Hartini",
+      "name": "Harriet Upp",
       "sector": 4,
       "penatua": 0,
-      "diaken": 0
+      "diaken": 1
     },
     {
       "id": 16,
-      "name": "Abednego B.S.",
+      "name": "Manuel Labor",
       "sector": 4,
       "penatua": 0,
       "diaken": 0
     },
     {
       "id": 17,
-      "name": "Santi Jayani",
+      "name": "Wiley Waites",
       "sector": 4,
       "penatua": 0,
       "diaken": 0
     },
     {
       "id": 18,
-      "name": "Marthen Bulo",
+      "name": "Allie Grater",
       "sector": 5,
       "penatua": 0,
       "diaken": 0
     },
     {
       "id": 19,
-      "name": "Theodora S",
+      "name": "Constance Noring",
       "sector": 5,
       "penatua": 0,
       "diaken": 0
     },
     {
       "id": 20,
-      "name": "Yessy Permata Bulo",
+      "name": "Minnie Van Ryder",
       "sector": 5,
       "penatua": 0,
       "diaken": 0
     },
     {
       "id": 21,
-      "name": "Mariliana Berlian Bulo",
+      "name": "P. Ann O’Recital",
       "sector": 5,
       "penatua": 0,
       "diaken": 0
     },
     {
       "id": 22,
-      "name": "Mariliana Berlian Bulo",
+      "name": "Ray O’Sun",
       "sector": 5,
       "penatua": 0,
       "diaken": 0
     },
     {
       "id": 23,
-      "name": "Yulin Tonapa",
+      "name": "Anne Thurium",
       "sector": 6,
       "penatua": 0,
       "diaken": 0
     },
     {
       "id": 24,
-      "name": "Mayfry Membia",
+      "name": "Bridget Theriveaquai",
       "sector": 6,
       "penatua": 0,
       "diaken": 0
     },
     {
       "id": 25,
-      "name": "Yohana Payung",
+      "name": "Del Phineum",
       "sector": 6,
       "penatua": 0,
       "diaken": 0
     },
     {
       "id": 26,
-      "name": "Milky Y. Palimbong",
+      "name": "Frank N. Stein",
       "sector": 6,
       "penatua": 0,
       "diaken": 0
     },
     {
       "id": 27,
-      "name": "Nikolas Manuk Allo",
+      "name": "Joe V. Awl",
       "sector": 6,
       "penatua": 0,
       "diaken": 0
     },
     {
       "id": 28,
-      "name": "Otniel Omu Sumbung",
+      "name": "Rose Bush",
       "sector": 6,
       "penatua": 0,
       "diaken": 0
     },
     {
       "id": 29,
-      "name": "Kurnielti Palisuan",
+      "name": "Percy Kewshun",
       "sector": 7,
       "penatua": 0,
       "diaken": 0
     },
     {
       "id": 30,
-      "name": "Nielda Kezia Sumbung",
+      "name": "Rod Knee",
       "sector": 7,
       "penatua": 0,
       "diaken": 0
@@ -214,210 +214,210 @@
   "vote_result": [
     {
       "id": 1,
-      "name": "Benny Mathius Lotte",
+      "name": "Fran G. Pani",
       "sector": 1,
-      "penatua": 1,
+      "penatua": 0,
       "diaken": 0
     },
     {
       "id": 2,
-      "name": "Nunuk Soraya",
+      "name": "Jack Aranda",
       "sector": 1,
-      "penatua": 1,
+      "penatua": 0,
       "diaken": 0
     },
     {
       "id": 3,
-      "name": "Benyamin Rande",
+      "name": "John Quil",
       "sector": 1,
-      "penatua": 1,
+      "penatua": 0,
       "diaken": 0
     },
     {
       "id": 4,
-      "name": "Paulina Dwi Astuti M.",
+      "name": "Olive Tree",
       "sector": 1,
       "penatua": 0,
-      "diaken": 1
+      "diaken": 0
     },
     {
       "id": 5,
-      "name": "Bisara Keka",
+      "name": "Anna Domino",
       "sector": 2,
       "penatua": 0,
-      "diaken": 1
+      "diaken": 0
     },
     {
       "id": 6,
-      "name": "Ratte Datu",
+      "name": "Ben Dover",
       "sector": 2,
       "penatua": 0,
-      "diaken": 1
+      "diaken": 0
     },
     {
       "id": 7,
-      "name": "Christyani Rannu",
+      "name": "Fay Daway",
       "sector": 2,
       "penatua": 0,
-      "diaken": 1
+      "diaken": 0
     },
     {
       "id": 8,
-      "name": "Friska Febriyani",
+      "name": "Neil Down",
       "sector": 2,
       "penatua": 0,
-      "diaken": 1
+      "diaken": 0
     },
     {
       "id": 9,
-      "name": "Daud K. Pirade",
+      "name": "Skye Blue",
       "sector": 2,
-      "penatua": 1,
+      "penatua": 0,
       "diaken": 0
     },
     {
       "id": 10,
-      "name": "Dety D. Palimbong",
+      "name": "Dulcie Veeta",
       "sector": 3,
       "penatua": 0,
       "diaken": 0
     },
     {
       "id": 11,
-      "name": "Frederik Lolo",
+      "name": "Emma Grate",
       "sector": 3,
-      "penatua": 1,
+      "penatua": 0,
       "diaken": 0
     },
     {
       "id": 12,
-      "name": "Diana Papayungan",
+      "name": "Mary Krismass",
       "sector": 3,
       "penatua": 0,
-      "diaken": 1
+      "diaken": 0
     },
     {
       "id": 13,
-      "name": "Krisna Perdana Lolo",
+      "name": "Ivan Notheridiya",
       "sector": 3,
       "penatua": 0,
       "diaken": 0
     },
     {
       "id": 14,
-      "name": "Chrys Adrian Lolo",
+      "name": "Anita Bath",
       "sector": 4,
       "penatua": 0,
       "diaken": 0
     },
     {
       "id": 15,
-      "name": "Maega Hartini",
+      "name": "Harriet Upp",
       "sector": 4,
-      "penatua": 1,
+      "penatua": 0,
       "diaken": 0
     },
     {
       "id": 16,
-      "name": "Abednego B.S.",
+      "name": "Manuel Labor",
       "sector": 4,
       "penatua": 0,
-      "diaken": 1
+      "diaken": 0
     },
     {
       "id": 17,
-      "name": "Santi Jayani",
+      "name": "Wiley Waites",
       "sector": 4,
       "penatua": 0,
-      "diaken": 1
+      "diaken": 0
     },
     {
       "id": 18,
-      "name": "Marthen Bulo",
+      "name": "Allie Grater",
       "sector": 5,
       "penatua": 0,
-      "diaken": 1
+      "diaken": 0
     },
     {
       "id": 19,
-      "name": "Theodora S",
+      "name": "Constance Noring",
       "sector": 5,
       "penatua": 0,
-      "diaken": 1
+      "diaken": 0
     },
     {
       "id": 20,
-      "name": "Yessy Permata Bulo",
+      "name": "Minnie Van Ryder",
       "sector": 5,
       "penatua": 0,
       "diaken": 0
     },
     {
       "id": 21,
-      "name": "Mariliana Berlian Bulo",
+      "name": "P. Ann O’Recital",
       "sector": 5,
       "penatua": 0,
-      "diaken": 1
+      "diaken": 0
     },
     {
       "id": 22,
-      "name": "Mariliana Berlian Bulo",
+      "name": "Ray O’Sun",
       "sector": 5,
       "penatua": 0,
-      "diaken": 1
+      "diaken": 0
     },
     {
       "id": 23,
-      "name": "Yulin Tonapa",
+      "name": "Anne Thurium",
       "sector": 6,
-      "penatua": 1,
+      "penatua": 0,
       "diaken": 0
     },
     {
       "id": 24,
-      "name": "Mayfry Membia",
+      "name": "Bridget Theriveaquai",
       "sector": 6,
       "penatua": 0,
       "diaken": 0
     },
     {
       "id": 25,
-      "name": "Yohana Payung",
+      "name": "Del Phineum",
       "sector": 6,
-      "penatua": 1,
+      "penatua": 0,
       "diaken": 0
     },
     {
       "id": 26,
-      "name": "Milky Y. Palimbong",
+      "name": "Frank N. Stein",
       "sector": 6,
-      "penatua": 1,
+      "penatua": 0,
       "diaken": 0
     },
     {
       "id": 27,
-      "name": "Nikolas Manuk Allo",
+      "name": "Joe V. Awl",
       "sector": 6,
       "penatua": 0,
-      "diaken": 1
+      "diaken": 0
     },
     {
       "id": 28,
-      "name": "Otniel Omu Sumbung",
+      "name": "Rose Bush",
       "sector": 6,
       "penatua": 0,
       "diaken": 0
     },
     {
       "id": 29,
-      "name": "Kurnielti Palisuan",
+      "name": "Percy Kewshun",
       "sector": 7,
-      "penatua": 1,
+      "penatua": 0,
       "diaken": 0
     },
     {
       "id": 30,
-      "name": "Nielda Kezia Sumbung",
+      "name": "Rod Knee",
       "sector": 7,
       "penatua": 0,
       "diaken": 0
