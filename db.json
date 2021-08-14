@@ -1,294 +1,366 @@
 {
-  "anggota": [
+  "penatua": [
     {
       "id": 1,
       "avatar":"avatar.jpeg",
-      "name": "Fran G. Pani",
+      "name": "Astitra T. Popang Kabanga",
       "penatua": 0
     },
     {
       "id": 2,
       "avatar":"avatar.jpeg",
-      "name": "Jack Aranda",
+      "name": "Benny Mathius Lotte",
       "penatua": 0
     },
     {
       "id": 3,
       "avatar":"avatar.jpeg",
-      "name": "John Quil",
+      "name": "Daud L. Rantetampang",
       "penatua": 0
     },
     {
       "id": 4,
       "avatar":"avatar.jpeg",
-      "name": "Olive Tree",
+      "name": "Daud Tanan Manturino",
       "penatua": 0
     },
     {
       "id": 5,
       "avatar":"avatar.jpeg",
-      "name": "Anna Domino",
+      "name": "David Lobby",
       "penatua": 0
     },
     {
       "id": 6,
       "avatar":"avatar.jpeg",
-      "name": "Ben Dover",
+      "name": "Deanzet Tangkaba",
       "penatua": 0
     },
     {
       "id": 7,
       "avatar":"avatar.jpeg",
-      "name": "Fay Daway",
+      "name": "Diana Papayungan Lolo",
       "penatua": 0
     },
     {
       "id": 8,
       "avatar":"avatar.jpeg",
-      "name": "Neil Down",
+      "name": "Djoni Menteng",
       "penatua": 0
     },
     {
       "id": 9,
       "avatar":"avatar.jpeg",
-      "name": "Skye Blue",
+      "name": "Editha Rombe Datu Lelepadang",
       "penatua": 0
     },
     {
       "id": 10,
       "avatar":"avatar.jpeg",
-      "name": "Dulcie Veeta",
+      "name": "Elim Popang Papalangi'",
       "penatua": 0
     },
     {
       "id": 11,
       "avatar":"avatar.jpeg",
-      "name": "Emma Grate",
+      "name": "Eltisa J. Sombolayuk Batti",
       "penatua": 0
     },
     {
       "id": 12,
       "avatar":"avatar.jpeg",
-      "name": "Mary Krismass",
+      "name": "Enov Tikupasang",
       "penatua": 0
     },
     {
       "id": 13,
       "avatar":"avatar.jpeg",
-      "name": "Ivan Notheridiya",
+      "name": "Evriyan L. Tandirerung",
       "penatua": 0
     },
     {
       "id": 14,
       "avatar":"avatar.jpeg",
-      "name": "Anita Bath",
+      "name": "Ferdinandus Denny Bontong",
       "penatua": 0
     },
     {
       "id": 15,
       "avatar":"avatar.jpeg",
-      "name": "Harriet Upp",
+      "name": "Frans Sampetoding",
       "penatua": 0
     },
     {
       "id": 16,
       "avatar":"avatar.jpeg",
-      "name": "Manuel Labor",
+      "name": "Irene Sarah Kendenan Salusu",
+      "penatua": 0
+    },
+    {
+      "id": 17,
+      "avatar":"avatar.jpeg",
+      "name": "Lambert Timbayo",
+      "penatua": 0
+    },
+    {
+      "id": 18,
+      "avatar":"avatar.jpeg",
+      "name": "Margariche Panannangan Mangampa ",
+      "penatua": 0
+    },
+    {
+      "id": 19,
+      "avatar":"avatar.jpeg",
+      "name": "Marsel Mallisa Tikupasang",
+      "penatua": 0
+    },
+    {
+      "id": 20,
+      "avatar":"avatar.jpeg",
+      "name": "Marthen B. Borotoding",
+      "penatua": 0
+    },
+    {
+      "id": 21,
+      "avatar":"avatar.jpeg",
+      "name": "Martinus B. Palamba",
+      "penatua": 0
+    },
+    {
+      "id": 22,
+      "avatar":"avatar.jpeg",
+      "name": "Matius Tangyong",
+      "penatua": 0
+    },
+    {
+      "id": 23,
+      "avatar":"avatar.jpeg",
+      "name": "Mika Bakti Tandiring",
+      "penatua": 0
+    },
+    {
+      "id": 24,
+      "avatar":"avatar.jpeg",
+      "name": "Mikha Ramba Kendenan",
+      "penatua": 0
+    },
+    {
+      "id": 25,
+      "avatar":"avatar.jpeg",
+      "name": "Milka Triana Lebang Sulkan",
+      "penatua": 0
+    },
+    {
+      "id": 26,
+      "avatar":"avatar.jpeg",
+      "name": "Milka Triana Lebang Sulkan",
+      "penatua": 0
+    },
+    {
+      "id": 27,
+      "avatar":"avatar.jpeg",
+      "name": "Oktovianus Rusmin Munda",
+      "penatua": 0
+    },
+    {
+      "id": 28,
+      "avatar":"avatar.jpeg",
+      "name": "Otniel Omu Sumbung",
+      "penatua": 0
+    },
+    {
+      "id": 29,
+      "avatar":"avatar.jpeg",
+      "name": "Otniel Paembonan",
+      "penatua": 0
+    },
+    {
+      "id": 30,
+      "avatar":"avatar.jpeg",
+      "name": "Petrus Surya",
+      "penatua": 0
+    }
+  ],
+  "diaken": [
+    {
+      "id": 1,
+      "avatar":"avatar.jpeg",
+      "name": "Abdi Manglo",
+      "diaken": 0
+    },
+    {
+      "id": 2,
+      "avatar":"avatar.jpeg",
+      "name": "Abednego B. Saalino Rantepadang",
+      "diaken": 0
+    },
+    {
+      "id": 3,
+      "avatar":"avatar.jpeg",
+      "name": "Alexander Pasangallo",
+      "diaken": 0
+    },
+    {
+      "id": 4,
+      "avatar":"avatar.jpeg",
+      "name": "Alvius Pilo Kalalembang",
+      "diaken": 0
+    },
+    {
+      "id": 5,
+      "avatar":"avatar.jpeg",
+      "name": "Andre Bramandita Linting",
+      "diaken": 0
+    },
+    {
+      "id": 6,
+      "avatar":"avatar.jpeg",
+      "name": "Aritono Pirade",
+      "diaken": 0
+    },
+    {
+      "id": 7,
+      "avatar":"avatar.jpeg",
+      "name": "Daniel Irianto Sambara",
+      "diaken": 0
+    },
+    {
+      "id": 8,
+      "avatar":"avatar.jpeg",
+      "name": "Deny Yusuf Makale",
+      "diaken": 0
+    },
+    {
+      "id": 9,
+      "avatar":"avatar.jpeg",
+      "name": "Dety Datuarrang Palimbong",
+      "diaken": 0
+    },
+    {
+      "id": 10,
+      "avatar":"avatar.jpeg",
+      "name": "Jenita Ruti Palungan Rante Ali",
+      "diaken": 0
+    },
+    {
+      "id": 11,
+      "avatar":"avatar.jpeg",
+      "name": "Juan Salao Biantong",
+      "diaken": 0
+    },
+    {
+      "id": 12,
+      "avatar":"avatar.jpeg",
+      "name": "Kristian Londong Pare",
+      "diaken": 0
+    },
+    {
+      "id": 13,
+      "avatar":"avatar.jpeg",
+      "name": "Laurens Tangyong",
+      "diaken": 0
+    },
+    {
+      "id": 14,
+      "avatar":"avatar.jpeg",
+      "name": "Leny Winarti ",
+      "diaken": 0
+    },
+    {
+      "id": 15,
+      "avatar":"avatar.jpeg",
+      "name": "Marselinus Padidi",
+      "diaken": 0
+    },
+    {
+      "id": 16,
+      "avatar":"avatar.jpeg",
+      "name": "Matriona L. Linorante",
       "diaken": 0
     },
     {
       "id": 17,
       "avatar":"avatar.jpeg",
-      "name": "Wiley Waites",
+      "name": "Michael Daud Tonda",
       "diaken": 0
     },
     {
       "id": 18,
       "avatar":"avatar.jpeg",
-      "name": "Allie Grater",
+      "name": "Milka Sambo",
       "diaken": 0
     },
     {
       "id": 19,
       "avatar":"avatar.jpeg",
-      "name": "Constance Noring",
+      "name": "Moses Maraya Sambo",
       "diaken": 0
     },
     {
       "id": 20,
       "avatar":"avatar.jpeg",
-      "name": "Minnie Van Ryder",
+      "name": "Peri Paramban",
       "diaken": 0
     },
     {
       "id": 21,
       "avatar":"avatar.jpeg",
-      "name": "P. Ann O’Recital",
+      "name": "Pithers Taran",
       "diaken": 0
     },
     {
       "id": 22,
       "avatar":"avatar.jpeg",
-      "name": "Ray O’Sun",
+      "name": "Pryanza Putra Sampeurang",
       "diaken": 0
     },
     {
       "id": 23,
       "avatar":"avatar.jpeg",
-      "name": "Anne Thurium",
+      "name": "Puji Astuti Topaa",
       "diaken": 0
     },
     {
       "id": 24,
       "avatar":"avatar.jpeg",
-      "name": "Bridget Theriveaquai",
+      "name": "Reinaldo Talo Bulo",
       "diaken": 0
     },
     {
       "id": 25,
       "avatar":"avatar.jpeg",
-      "name": "Del Phineum",
+      "name": "Restu Tumbo Tangdililing",
       "diaken": 0
     },
     {
       "id": 26,
       "avatar":"avatar.jpeg",
-      "name": "Frank N. Stein",
+      "name": "Rosmaya Tengko Lebang",
       "diaken": 0
     },
     {
       "id": 27,
       "avatar":"avatar.jpeg",
-      "name": "Joe V. Awl",
+      "name": "Runiosa Tasik Tangkaba Medan",
       "diaken": 0
     },
     {
       "id": 28,
       "avatar":"avatar.jpeg",
-      "name": "Rose Bush",
+      "name": "Ruth Ratuk",
       "diaken": 0
     },
     {
       "id": 29,
       "avatar":"avatar.jpeg",
-      "name": "Percy Kewshun",
+      "name": "Salinding Malingga Pasolang",
       "diaken": 0
     },
     {
       "id": 30,
       "avatar":"avatar.jpeg",
-      "name": "Rod Knee",
+      "name": "Tutuo Tumbuan",
       "diaken": 0
     }
-  ],
-  "vote_result": [
-    {
-      "id": 1,
-      "name": "Fran G. Pani",
-      "sector": 1,
-      "penatua": 1,
-      "diaken": 0
-    },
-    {
-      "id": 2,
-      "name": "Jack Aranda",
-      "sector": 1,
-      "penatua": 1,
-      "diaken": 0
-    },
-    {
-      "id": 3,
-      "name": "Anna Domino",
-      "sector": 2,
-      "penatua": 1,
-      "diaken": 0
-    },
-    {
-      "id": 4,
-      "name": "Dulcie Veeta",
-      "sector": 3,
-      "penatua": 1,
-      "diaken": 0
-    },
-    {
-      "id": 5,
-      "name": "Emma Grate",
-      "sector": 3,
-      "penatua": 1,
-      "diaken": 0
-    },
-     {
-      "id": 6,
-      "name": "Anita Bath",
-      "sector": 4,
-      "penatua": 1,
-      "diaken": 0
-    },
-    {
-      "id": 7,
-      "name": "Allie Grater",
-      "sector": 5,
-      "penatua": 1,
-      "diaken": 0
-    },
-    {
-      "id": 8,
-      "name": "Constance Noring",
-      "sector": 5,
-      "penatua": 1,
-      "diaken": 0
-    },
-    {
-      "id": 9,
-      "name": "Anne Thurium",
-      "sector": 6,
-      "penatua": 1,
-      "diaken": 0
-    },
-    {
-      "id": 10,
-      "name": "Percy Kewshun",
-      "sector": 7,
-      "penatua": 1,
-      "diaken": 0
-    },
-    {
-      "id": 11,
-      "name": "John Quil",
-      "sector": 1,
-      "penatua": 0,
-      "diaken": 1
-    },
-     {
-      "id": 12,
-      "name": "Ben Dover",
-      "sector": 2,
-      "penatua": 0,
-      "diaken": 1
-    },
-    {
-      "id": 13,
-      "name": "Mary Krismass",
-      "sector": 3,
-      "penatua": 0,
-      "diaken": 1
-    },
-    {
-      "id": 14,
-      "name": "Harriet Upp",
-      "sector": 4,
-      "penatua": 0,
-      "diaken": 1
-    },
-    {
-      "id": 15,
-      "name": "Minnie Van Ryder",
-      "sector": 5,
-      "penatua": 0,
-      "diaken": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
