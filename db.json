@@ -3,7 +3,7 @@
             "id": 1,
             "avatar": "assets/penatua.jpg",
             "name": "Astitra T. Popang Kabanga",
-            "categoty": "penatua",
+            "category": "penatua",
             "penatua": 0,
             "diaken": 0
 
@@ -12,7 +12,7 @@
             "id": 2,
             "avatar": "assets/penatua.jpg",
             "name": "Benny Mathius Lotte",
-            "categoty": "penatua",
+            "category": "penatua",
             "penatua": 0,
             "diaken": 0
 
@@ -21,7 +21,7 @@
             "id": 3,
             "avatar": "assets/penatua.jpg",
             "name": "Daud L. Rantetampang",
-            "categoty": "penatua",
+            "category": "penatua",
             "penatua": 0,
             "diaken": 0
 
@@ -30,7 +30,7 @@
             "id": 4,
             "avatar": "assets/penatua.jpg",
             "name": "Daud Tanan Manturino",
-            "categoty": "penatua",
+            "category": "penatua",
             "penatua": 0,
             "diaken": 0
         },
@@ -38,7 +38,7 @@
             "id": 5,
             "avatar": "assets/penatua.jpg",
             "name": "David Lobby",
-            "categoty": "penatua",
+            "category": "penatua",
             "penatua": 0,
             "diaken": 0
         },
@@ -46,7 +46,7 @@
             "id": 6,
             "avatar": "assets/penatua.jpg",
             "name": "Deanzet Tangkaba",
-            "categoty": "penatua",
+            "category": "penatua",
             "penatua": 0,
             "diaken": 0
         },
@@ -54,7 +54,7 @@
             "id": 7,
             "avatar": "assets/penatua.jpg",
             "name": "Diana Papayungan Lolo",
-            "categoty": "penatua",
+            "category": "penatua",
             "penatua": 0,
             "diaken": 0
         },
@@ -62,7 +62,7 @@
             "id": 8,
             "avatar": "assets/penatua.jpg",
             "name": "Djoni Menteng",
-            "categoty": "penatua",
+            "category": "penatua",
             "penatua": 0,
             "diaken": 0
         },
@@ -70,7 +70,7 @@
             "id": 9,
             "avatar": "assets/penatua.jpg",
             "name": "Editha Rombe Datu Lelepadang",
-            "categoty": "penatua",
+            "category": "penatua",
             "penatua": 0,
             "diaken": 0
         },
@@ -78,7 +78,7 @@
             "id": 10,
             "avatar": "assets/penatua.jpg",
             "name": "Elim Popang Papalangi'",
-            "categoty": "penatua",
+            "category": "penatua",
             "penatua": 0,
             "diaken": 0
         },
@@ -86,7 +86,7 @@
             "id": 11,
             "avatar": "assets/penatua.jpg",
             "name": "Eltisa J. Sombolayuk Batti",
-            "categoty": "penatua",
+            "category": "penatua",
             "penatua": 0,
             "diaken": 0
         },
@@ -94,7 +94,7 @@
             "id": 12,
             "avatar": "assets/penatua.jpg",
             "name": "Enov Tikupasang",
-            "categoty": "penatua",
+            "category": "penatua",
             "penatua": 0,
             "diaken": 0
         },
@@ -102,7 +102,7 @@
             "id": 13,
             "avatar": "assets/penatua.jpg",
             "name": "Evriyan L. Tandirerung",
-            "categoty": "penatua",
+            "category": "penatua",
             "penatua": 0,
             "diaken": 0
         },
@@ -110,7 +110,7 @@
             "id": 14,
             "avatar": "assets/penatua.jpg",
             "name": "Ferdinandus Denny Bontong",
-            "categoty": "penatua",
+            "category": "penatua",
             "penatua": 0,
             "diaken": 0
         },
@@ -118,7 +118,7 @@
             "id": 15,
             "avatar": "assets/penatua.jpg",
             "name": "Frans Sampetoding",
-            "categoty": "penatua",
+            "category": "penatua",
             "penatua": 0,
             "diaken": 0
         },
@@ -126,7 +126,7 @@
             "id": 16,
             "avatar": "assets/penatua.jpg",
             "name": "Abdi Manglo",
-            "categoty": "diaken",
+            "category": "diaken",
             "penatua": 0,
             "diaken": 0
         },
@@ -134,7 +134,7 @@
             "id": 17,
             "avatar": "assets/penatua.jpg",
             "name": "Abednego B. Saalino Rantepadang",
-            "categoty": "diaken",
+            "category": "diaken",
             "penatua": 0,
             "diaken": 0
         },
@@ -142,7 +142,7 @@
             "id": 18,
             "avatar": "assets/penatua.jpg",
             "name": "Alexander Pasangallo",
-            "categoty": "diaken",
+            "category": "diaken",
             "penatua": 0,
             "diaken": 0
         },
@@ -150,7 +150,7 @@
             "id": 19,
             "avatar": "assets/penatua.jpg",
             "name": "Alvius Pilo Kalalembang",
-            "categoty": "diaken",
+            "category": "diaken",
             "penatua": 0,
             "diaken": 0
         },
@@ -158,7 +158,7 @@
             "id": 20,
             "avatar": "assets/penatua.jpg",
             "name": "Andre Bramandita Linting",
-            "categoty": "diaken",
+            "category": "diaken",
             "penatua": 0,
             "diaken": 0
         },
@@ -166,7 +166,7 @@
             "id": 21,
             "avatar": "assets/penatua.jpg",
             "name": "Aritono Pirade",
-            "categoty": "diaken",
+            "category": "diaken",
             "penatua": 0,
             "diaken": 0
         },
@@ -180,7 +180,7 @@
             "id": 23,
             "avatar": "assets/penatua.jpg",
             "name": "Deny Yusuf Makale",
-            "categoty": "diaken",
+            "category": "diaken",
             "penatua": 0,
             "diaken": 0
         },
@@ -188,7 +188,7 @@
             "id": 24,
             "avatar": "assets/penatua.jpg",
             "name": "Dety Datuarrang Palimbong",
-            "categoty": "diaken",
+            "category": "diaken",
             "penatua": 0,
             "diaken": 0
         },
@@ -196,7 +196,7 @@
             "id": 25,
             "avatar": "assets/penatua.jpg",
             "name": "Jenita Ruti Palungan Rante Ali",
-            "categoty": "diaken",
+            "category": "diaken",
             "penatua": 0,
             "diaken": 0
         },
@@ -204,7 +204,7 @@
             "id": 26,
             "avatar": "assets/penatua.jpg",
             "name": "Juan Salao Biantong",
-            "categoty": "diaken",
+            "category": "diaken",
             "penatua": 0,
             "diaken": 0
         },
@@ -212,7 +212,7 @@
             "id": 27,
             "avatar": "assets/penatua.jpg",
             "name": "Kristian Londong Pare",
-            "categoty": "diaken",
+            "category": "diaken",
             "penatua": 0,
             "diaken": 0
         },
@@ -220,7 +220,7 @@
             "id": 28,
             "avatar": "assets/penatua.jpg",
             "name": "Laurens Tangyong",
-            "categoty": "diaken",
+            "category": "diaken",
             "penatua": 0,
             "diaken": 0
         },
@@ -228,7 +228,7 @@
             "id": 29,
             "avatar": "assets/penatua.jpg",
             "name": "Leny Winarti ",
-            "categoty": "diaken",
+            "category": "diaken",
             "penatua": 0,
             "diaken": 0
         },
@@ -236,7 +236,7 @@
             "id": 30,
             "avatar": "assets/penatua.jpg",
             "name": "Marselinus Padidi",
-            "categoty": "diaken",
+            "category": "diaken",
             "penatua": 0,
             "diaken": 0
         }
