@@ -1,244 +1,183 @@
 {
     "anggota": [{
             "id": 1,
-            "avatar": "assets/penatua.jpg",
             "name": "Astitra T. Popang Kabanga",
-            "category": "penatua",
-            "penatua": 0,
-            "diaken": 0
-
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 2,
-            "avatar": "assets/penatua.jpg",
-            "name": "Benny Mathius Lotte",
-            "category": "penatua",
-            "penatua": 0,
-            "diaken": 0
-
+            "name": "Diana Papayungan Lolo",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 3,
-            "avatar": "assets/penatua.jpg",
-            "name": "Daud L. Rantetampang",
-            "category": "penatua",
-            "penatua": 0,
-            "diaken": 0
-
+            "name": "Editha Rombe Datu Lelepadang",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 4,
-            "avatar": "assets/penatua.jpg",
-            "name": "Daud Tanan Manturino",
-            "category": "penatua",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Elim Popang Papalangi'",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 5,
-            "avatar": "assets/penatua.jpg",
-            "name": "David Lobby",
-            "category": "penatua",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Irene Sarah Kendenan Salusu",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 6,
-            "avatar": "assets/penatua.jpg",
-            "name": "Deanzet Tangkaba",
-            "category": "penatua",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Jenita Ruti Palungan Rante Ali",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 7,
-            "avatar": "assets/penatua.jpg",
-            "name": "Diana Papayungan Lolo",
-            "category": "penatua",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Leny Winarti",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 8,
-            "avatar": "assets/penatua.jpg",
-            "name": "Djoni Menteng",
-            "category": "penatua",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Margariche Panannangan Mangampa",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 9,
-            "avatar": "assets/penatua.jpg",
-            "name": "Editha Rombe Datu Lelepadang",
-            "category": "penatua",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Matriona L. Linorante",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 10,
-            "avatar": "assets/penatua.jpg",
-            "name": "Elim Popang Papalangi'",
-            "category": "penatua",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Milka Sambo",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 11,
-            "avatar": "assets/penatua.jpg",
-            "name": "Eltisa J. Sombolayuk Batti",
-            "category": "penatua",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Milka Triana Lebang Sulkan",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 12,
-            "avatar": "assets/penatua.jpg",
-            "name": "Enov Tikupasang",
-            "category": "penatua",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Naomi Rimpan Sumbadi Tana",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 13,
-            "avatar": "assets/penatua.jpg",
-            "name": "Evriyan L. Tandirerung",
-            "category": "penatua",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Puji Astuti Topaa",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 14,
-            "avatar": "assets/penatua.jpg",
-            "name": "Ferdinandus Denny Bontong",
-            "category": "penatua",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Ritha Ruth Samban",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 15,
-            "avatar": "assets/penatua.jpg",
-            "name": "Frans Sampetoding",
-            "category": "penatua",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Restu Tumbo Tangdililing",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 16,
-            "avatar": "assets/penatua.jpg",
-            "name": "Abdi Manglo",
-            "category": "diaken",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Rosmaya Tengko Lebang",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 17,
-            "avatar": "assets/penatua.jpg",
-            "name": "Abednego B. Saalino Rantepadang",
-            "category": "diaken",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Runiosa Tasik Tangkaba Medan",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 18,
-            "avatar": "assets/penatua.jpg",
-            "name": "Alexander Pasangallo",
-            "category": "diaken",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Ruth Ratuk",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 19,
-            "avatar": "assets/penatua.jpg",
-            "name": "Alvius Pilo Kalalembang",
-            "category": "diaken",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Selvy Tonanda Sollu Pongsapan",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 20,
-            "avatar": "assets/penatua.jpg",
-            "name": "Andre Bramandita Linting",
-            "category": "diaken",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Vivianita Sadimun Topayung",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 21,
-            "avatar": "assets/penatua.jpg",
-            "name": "Aritono Pirade",
-            "category": "diaken",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Yanih Rusyanih Malangi'",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 22,
-            "avatar": "assets/penatua.jpg",
-            "name": "Daniel Irianto Sambara",
-            "penatua": 0
+            "name": "Yulin Tonapa Linting",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 23,
-            "avatar": "assets/penatua.jpg",
-            "name": "Deny Yusuf Makale",
-            "category": "diaken",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Yunita Bulo Matarru'",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 24,
-            "avatar": "assets/penatua.jpg",
-            "name": "Dety Datuarrang Palimbong",
-            "category": "diaken",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Dety D. Palimbong",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 25,
-            "avatar": "assets/penatua.jpg",
-            "name": "Jenita Ruti Palungan Rante Ali",
-            "category": "diaken",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Rosalina Rante",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 26,
-            "avatar": "assets/penatua.jpg",
-            "name": "Juan Salao Biantong",
-            "category": "diaken",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Yati Tandipayung",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 27,
-            "avatar": "assets/penatua.jpg",
-            "name": "Kristian Londong Pare",
-            "category": "diaken",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Lidia Datu Parura Tikupasang",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 28,
-            "avatar": "assets/penatua.jpg",
-            "name": "Laurens Tangyong",
-            "category": "diaken",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Mariyana Sampe",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 29,
-            "avatar": "assets/penatua.jpg",
-            "name": "Leny Winarti ",
-            "category": "diaken",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Meriam Selonita Sambo",
+            "category": "Balon Ketua",
+            "count": 0
         },
         {
             "id": 30,
-            "avatar": "assets/penatua.jpg",
-            "name": "Marselinus Padidi",
-            "category": "diaken",
-            "penatua": 0,
-            "diaken": 0
+            "name": "Rina Palamba",
+            "category": "Balon Ketua",
+            "count": 0
         }
     ]
 }
